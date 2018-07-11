@@ -1,3 +1,3 @@
 # TestProject
 This is an update to the README.md
-:coffee: :pizza: :dancer: :smile:
+:coffee: :pizza: :dancer:
